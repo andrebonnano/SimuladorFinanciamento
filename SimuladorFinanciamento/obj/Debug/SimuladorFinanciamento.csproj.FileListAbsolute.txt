@@ -1,0 +1,8 @@
+C:\dev\SimuladorFinanciamento\SimuladorFinanciamento\SimuladorFinanciamento\bin\Debug\SimuladorFinanciamento.exe.config
+C:\dev\SimuladorFinanciamento\SimuladorFinanciamento\SimuladorFinanciamento\bin\Debug\SimuladorFinanciamento.exe
+C:\dev\SimuladorFinanciamento\SimuladorFinanciamento\SimuladorFinanciamento\bin\Debug\SimuladorFinanciamento.pdb
+C:\dev\SimuladorFinanciamento\SimuladorFinanciamento\SimuladorFinanciamento\obj\Debug\SimuladorFinanciamento.csproj.AssemblyReference.cache
+C:\dev\SimuladorFinanciamento\SimuladorFinanciamento\SimuladorFinanciamento\obj\Debug\SimuladorFinanciamento.csproj.SuggestedBindingRedirects.cache
+C:\dev\SimuladorFinanciamento\SimuladorFinanciamento\SimuladorFinanciamento\obj\Debug\SimuladorFinanciamento.csproj.CoreCompileInputs.cache
+C:\dev\SimuladorFinanciamento\SimuladorFinanciamento\SimuladorFinanciamento\obj\Debug\SimuladorFinanciamento.exe
+C:\dev\SimuladorFinanciamento\SimuladorFinanciamento\SimuladorFinanciamento\obj\Debug\SimuladorFinanciamento.pdb
